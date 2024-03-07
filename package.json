@@ -1,7 +1,7 @@
 {
     "name": "Launcher",
     "preductname": "Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour notre serveur",
     "main": "src/app.js",
     "author": {
