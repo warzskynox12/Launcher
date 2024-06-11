@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://launcher-minecraft2024.000webhostapp.com",
+    "url": "https://warzskynox12.github.io/t",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
