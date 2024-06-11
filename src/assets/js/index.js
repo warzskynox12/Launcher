@@ -3,7 +3,7 @@
  * @license CC-BY-NC 4.0 - https://creativecommons.org/licenses/by-nc/4.0
  */
 const { ipcRenderer } = require('electron');
-const os = require('os');
+const os = require('os'); 
 import { config, database } from './utils.js';
 
 let dev = process.env.NODE_ENV === 'dev';
