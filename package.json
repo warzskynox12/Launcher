@@ -1,7 +1,7 @@
 {
     "name": "Launcher",
     "preductname": "Launcher",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Launcher Mincraft pour notre serveur",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://launcher12012.rf.gd",
+    "url": "https://launcher-minecraft2024.000webhostapp.com/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
